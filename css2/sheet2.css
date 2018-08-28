@@ -98,10 +98,11 @@ text-decoration: none;
 color: #eee;
 }
 .tbraa{
-    background-color:#72BCBB; 
+    background-color:#3B8686; 
     font-size: 20pt;
     padding-bottom: 20px;
     padding-top: 20px;
+    color: white;
 }
 form input{
     width: 90%;
@@ -113,13 +114,17 @@ form p{ font-size: 20pt; }
 input[type="radio"]{width: auto;}
       
 .contactus{
-   background-color:#72BCBB; 
+   background-color:#3B8686; 
    font-size: 18pt;
    padding: 100px;
    margin-top: 50px;
     margin-bottom: 50px;
+    color: white;
 }
-   
+.bb{
+    background-color: #E6F4F1; 
+    color: black;
+} 
 .code{
     text-align: right;
     background-color:#3B8686;

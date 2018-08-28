@@ -88,9 +88,10 @@ body {
 }
 .team img{border-radius:50%;}
 .contactus{
-   background-color:#72BCBB; 
+   background-color:#3B8686; 
    font-size: 18pt;
    padding: 100px;
+   color: white;
 }
 .vbaby{
     width: 80%;
@@ -102,10 +103,11 @@ body {
     margin-bottom: 50px;
 }
 .tbraa{
-    background-color:#72BCBB; 
+    background-color:#3B8686; 
     font-size: 20pt;
     padding-bottom: 20px;
     padding-top: 20px;
+    color: white;
 }
 form input{
     width: 90%;
