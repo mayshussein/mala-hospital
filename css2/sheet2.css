@@ -123,12 +123,14 @@ form p{ font-size: 20pt; }
 input[type="radio"]{width: auto;}
       
 .contactus{
-   background-color:#3B8686; 
+   background-color:#4e9292; 
    font-size: 18pt;
-   margin-top: 50px;    
-   margin-bottom: 50px;
+   margin-top: 50px; 
    color: white;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #b0cece;
 }
+.cm{width: 15%;}
 .bb{
     background-color: #E6F4F1; 
     color: black;
