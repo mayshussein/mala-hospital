@@ -3,6 +3,7 @@ body {
     font-size: 18px;
     background-color: #E6F4F1;
 }
+/****نافبار *****/
 .row {
     width: 100%;
     margin: 0 auto;
@@ -65,6 +66,7 @@ body {
     -ms-border-radius: 3px;
     -o-border-radius: 3px;
 }
+/*****الصوره الخلفيه****/
 .baby {
     background-image:url("../images1/angel-2.jpeg");
     background-size: cover;
@@ -72,6 +74,7 @@ body {
     height:700px;
     width: 100%;
 }
+/*****الحالات*****/
 .btn{ 
     color: white; 
     background-color: #3B8686;
@@ -94,21 +97,25 @@ body {
     background-color: #3B8686;
     text-decoration: none;
 }
+/*****الفريق الطبي*****/
 .team{
     width: 200px;
     font-size: 15pt;
 }
 .team img{border-radius:50%;}
+/*****تواصل معنا *****/
 .contactus{
    background-color:#3B8686; 
    font-size: 18pt;
    color: white;
-    padding-bottom: 15px;
+    padding-bottom: 30px;
 }
+/****فيديو يحث على التبرع *****/
 .vbaby{
     width: 80%;
     height: 50%;
 }
+/****خاص بعرض كل سكشن و كتابه التايتل *****/
 .vwrite{
     font-size: 20pt;
     margin-top: 60px;
@@ -118,6 +125,7 @@ body {
     padding-bottom: 40px;
     font-size: 22pt;
 }
+/****تبرع *****/
 .tbraa{
     background-color:#3B8686; 
     font-size: 20pt;
@@ -133,6 +141,11 @@ form input{
 input[type="number"]{width: 50%;}
 form p{ font-size: 20pt; }
 input[type="radio"]{width: auto;}
+.b{
+    background-color: #E6F4F1; 
+    color: black;
+}
+/****فوتر *****/
 .code{
     text-align: right;
     background-color:#3B8686;
