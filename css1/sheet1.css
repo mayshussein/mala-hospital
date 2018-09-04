@@ -5,6 +5,7 @@ body {
     overflow-x:hidden;
     padding-left: 0px;
      width: 100%;
+    clear: both;
 }
 /****نافبار *****/
 .navbar-brand{
@@ -30,7 +31,7 @@ body {
     z-index: 999;
     right: 0;
     left: 0;
-    overflow-x:hidden;
+    clear: both;
 }
 /*****الصوره الخلفيه****/
 .baby {
@@ -118,7 +119,6 @@ input[type="radio"]{width: auto;}
     font-size: 15px;
     text-shadow: 4px 4px 8px #333;
     padding-right: 100px;
-   
     padding: 20px;
     position: relative;
     left: 0;
